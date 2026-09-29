@@ -8,7 +8,7 @@
 <!-- Profile Views & Typing SVG -->
 <div align="center">
     <a href="https://github.com/Nagasaitej8130">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=41A0AA&background=FFE15700&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Nagasaitej;CS+Student+%26+Web+Developer;Passionate+about+Automation;if+it+can+be+scripted%2C+it+will!" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=41A0AA&background=FFE15700&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Naga+Sai+Teja;CS+Student+%26+Web+Developer;Passionate+about+Automation;if+it+can+be+scripted%2C+it+will!" />
     </a>
 </div>
 
